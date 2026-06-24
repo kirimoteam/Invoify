@@ -39,7 +39,7 @@
 
 1. **Download or clone the repository**
    ```bash
-   git clone https://github.com/kirimoteam/Invoify.git
+   git clone https://github.com/arizalashar/Invoify.git
    cd Invoify
    ```
 
@@ -222,7 +222,7 @@ Thank you for your business!
 ### Local Usage
 ```bash
 # Clone the repository
-git clone https://github.com/kirimoteam/Invoify.git
+git clone https://github.com/arizalashar/Invoify.git
 cd Invoify
 
 # Open in browser (no server needed!)
@@ -328,7 +328,7 @@ Just include the original license notice.
 
 ## 👨‍💻 Author
 
-**Invoify** is maintained by the [Kirimo Team](https://github.com/kirimoteam)
+**Invoify** is maintained by the [Kirimo Team](https://github.com/arizalashar)
 
 ---
 
@@ -344,8 +344,8 @@ Just include the original license notice.
 ## 📞 Support
 
 - 📧 **Email**: Open an issue on GitHub
-- 🐛 **Bug Reports**: [GitHub Issues](https://github.com/kirimoteam/Invoify/issues)
-- 💡 **Feature Requests**: [GitHub Discussions](https://github.com/kirimoteam/Invoify/discussions)
+- 🐛 **Bug Reports**: [GitHub Issues](https://github.com/arizalashar/Invoify/issues)
+- 💡 **Feature Requests**: [GitHub Discussions](https://github.com/arizalashar/Invoify/discussions)
 - 📖 **Documentation**: Check this README and code comments
 
 ---
@@ -363,7 +363,7 @@ If you find Invoify helpful, please consider:
 
 <div align="center">
 
-**Made with ❤️ by [Kirimo Team](https://github.com/kirimoteam)**
+**Made with ❤️ by [Kirimo Team](https://github.com/arizalashar)**
 
 [⬆ Back to Top](#-invoify)
 
