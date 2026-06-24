@@ -2,11 +2,18 @@
 
 > **Free, open-source invoice generator — runs in browser, export to PDF. No backend needed.**
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit-orange?style=for-the-badge)](https://invoify-wheat.vercel.app)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![HTML5](https://img.shields.io/badge/HTML5-E34C26?logo=html5&logoColor=white)](https://html5.spec.whatwg.org/)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+
+---
+
+## 📸 Preview
+
+![Invoify Preview](assets/preview.png)
 
 ---
 
@@ -189,9 +196,9 @@ DESCRIPTION      QTY    UNIT PRICE    AMOUNT
 Web Design       1      Rp 5.000.000  Rp 5.000.000
 SEO Services     3      Rp 1.000.000  Rp 3.000.000
 
-                              SUBTOTAL  Rp 8.000.000
-                              TAX (10%) Rp   800.000
-                              TOTAL     Rp 8.800.000
+                               SUBTOTAL  Rp 8.000.000
+                               TAX (10%) Rp   800.000
+                               TOTAL     Rp 8.800.000
 
 NOTES / TERMS
 Please transfer payment to bank account within 30 days of invoice date.
